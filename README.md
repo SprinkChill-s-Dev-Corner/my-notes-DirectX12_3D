@@ -1,5 +1,5 @@
 # Notes and Insights on Introduction to 3D Game Programming with DirectX 12
-## Overview
+## OVERVIEW
 Please note the following regarding this repository:
  - This repository is under active development.
  - Solutions to the book's exercises.
